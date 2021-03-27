@@ -1,2 +1,36 @@
 this is my first github.
 tis is my name
+
+---------------------------------------------------------------------
+FIRST STEMP --> 
+
+TO CREATE NEW PROJECT , GITHUB CREATE NEW REPOSITORY WITH A NAME
+
+OPEN CMD
+
+GO TO THAT PORJECT FOLDER
+
+git init
+
+git add .
+
+git commit -m "commit message"
+
+(OPEN GITHUB AND COPY ) (git remote add origin "https://www......")
+
+paste it
+
+git add .
+
+git commit -m "commit name"
+
+git push
+
+------------------------------------------------------------------------
+ALREADY UNA FOLDER
+
+git add .
+
+git commit -m "changed CODE"
+
+git push
